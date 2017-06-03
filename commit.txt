@@ -1,0 +1,11 @@
+commit a9fd281824789f2dd1c742ed38e8eeb28619b2bd
+Author: lcsalazar <junior31salazar@gmail.com>
+Date:   Fri Jun 2 22:31:54 2017 -0500
+
+    agregamos varios cambios
+
+commit 2b362bbb8a51227b248f793a4a9f3b5f62fc2170
+Author: lcsalazar <junior31salazar@gmail.com>
+Date:   Fri Jun 2 22:26:15 2017 -0500
+
+    este es m primer commit en git
